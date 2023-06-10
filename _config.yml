@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/anime.png
 
 # your site color theme, true for dark theme, 
@@ -20,7 +20,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://RatioAeterna.github.io
+url: https://RatioAeterna.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
